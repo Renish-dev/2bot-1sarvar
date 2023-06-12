@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5b2ec8d541fee97e63037.jpg" alt="millie">
+  <img src="https://graph.org/file/5979e5a3a4ffeee60171e.jpg" alt="JENNA Ortega">
 </p>
 <h1 align="center">
-  <b>MILLIE</b>
+  <b>JENNA Ortega</b>
 </h1>
 
 <a href="https://t.me/millie_robot_update">
@@ -106,12 +106,8 @@ python3 millie.py
 * /info - get user info
 * /id - get tg ids.* /imdb - fetch info from imdb.
 * /users - to get list of my users and ids.
-* /chats - to get list of the my chats and ids* /broadcast - to broadcast a message to all Elsa users
-* /gfilter - group filter
-* /grp_broadcast - broadcast to all group
-* /song - get song
-* /video - get video
-* /setskip - used in index where indexing a specific number
-* /font - fonts for your text
+* /chats - to get list of the my chats and ids
+* /broadcast - to broadcast a message to all Elsa users
+
 ```
 # 😇CREATOR [MILLIE UPDATE](https://t.me/millie_robot_update)

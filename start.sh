@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning Jenna Repository"
-  git clone https://github.com/GreyMatterbots/url-auto-delete-shortener-bot /Jenna 
+  git clone https://github.com/Jenna-r-ortega/jenna-short /Jenna 
 else
   echo "Cloning Jenna Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Jenna 

@@ -26,6 +26,13 @@
 - [x] File Store
 - [x] 2GB+File Support
 
+for render
+
+sign up
+https://uptimerobot.com/
+
+https://render.com/deploy?repo=https://github.com/Jenna-r-ortega/jenna-short/tree/main
+
 ## Variables
 
 ### Required Variables

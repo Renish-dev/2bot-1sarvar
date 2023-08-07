@@ -3,7 +3,7 @@ services:
   - type: web
     name: JENNA-Ortega
     env: python
-    startCommand: python3 jenna.py
+    startCommand: python3 Jenna.py
     buildCommand: pip3 install -U -r requirements.txt
     repo: https://github.com/Jenna-r-ortega/jenna-short/tree/main.git # optional
     region: oregon # optional (defaults to oregon)
